@@ -13,7 +13,9 @@ Changes made:
 - **NewPipe**: Added AV1 video itags (394-401) and audio itags (599, 600) to the supported list
 
 ## Install
-Download the APK from the [Releases](https://github.com/MonseyNY/NewPipe-360p-fix/releases) page. It installs as **"NewPipe Fix"** alongside the official app — no need to uninstall.
+Download the APK from the [Releases](https://github.com/MonseyNY/NewPipe-360p-fix/releases) page.
+
+This build uses a different package name (`org.schabi.newpipe.fix360`) and shows as **"NewPipe Fix"** in your app drawer. This means you can install it right alongside the official NewPipe app without uninstalling — both apps will work independently on your device.
 
 ## Status
 A PR has been submitted to the official repos:
